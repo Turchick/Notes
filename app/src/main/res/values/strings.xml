@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="save">Сохранить</string>
+    <string name="delete_notes">Удалит заметки</string>
+    <string name="hello_blank_fragment" translatable="false">Hello</string>
+    <string name="importance_number">Значимость</string>
+    <string name="description">Описание</string>
+    <string name="no_description">Нет описания</string>
+    <string name="title">Название</string>
+    <string name="all_notes">Все заметки</string>
+    <string name="allDeleted">Все заметики были удалены</string>
+    <string name="noteDeleted">Заметка удалена</string>
+    <string name="create_note">Создать заметку</string>
+    <string name="update_note">Обновить заметку</string>
+    <string name="title_cnb_empty">Название не может быть пустым</string>
+    <string name="delete_all">Удалить все заметки</string>
+    <string name="name_note">Название</string>
+    <string name="descr_note">Описание</string>
+</resources>
